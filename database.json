@@ -2,427 +2,365 @@
   "protected_resources": {
     "users": ["GET", "POST", "PUT", "PATCH", "DELETE"]
   },
-  "users": [
-    {
+  "users": [{
   "id": 1,
-  "name": "Kelbee Althrop",
-  "email": "kalthrop0@seesaa.net",
-  "password": "4RzAeixECjWg",
-  "phone": "3421687189",
-  "birthday": "09/06/1971",
-  "gender": "Female"
+  "name": "Freddy Hethron",
+  "email": "fhethron0@mlb.com",
+  "password": "rmFeXts",
+  "phone": "1565705760",
+  "birthday": "26/04/1987",
+  "gender": "Female",
+  "avatar": "https://robohash.org/ipsaconsequaturnobis.png?size=100x100&set=set1"
 }, {
   "id": 2,
-  "name": "Roma Insoll",
-  "email": "rinsoll1@amazon.com",
-  "password": "wQIGF2Ct",
-  "phone": "1284291654",
-  "birthday": "30/06/1996",
-  "gender": "Male"
+  "name": "Britt Cockerell",
+  "email": "bcockerell1@php.net",
+  "password": "j6RyNQsf",
+  "phone": "3012470803",
+  "birthday": "11/05/1986",
+  "gender": "Female",
+  "avatar": "https://robohash.org/consequunturinciduntvoluptas.png?size=100x100&set=set1"
 }, {
   "id": 3,
-  "name": "Noemi Roggieri",
-  "email": "nroggieri2@addtoany.com",
-  "password": "93Wyzv9WF4",
-  "phone": "4595619078",
-  "birthday": "05/05/1971",
-  "gender": "Male"
+  "name": "Otis Brugman",
+  "email": "obrugman2@wordpress.com",
+  "password": "2sEWwuM54",
+  "phone": "6079002618",
+  "birthday": "16/10/1992",
+  "gender": "Female",
+  "avatar": "https://robohash.org/voluptatemliberoex.png?size=100x100&set=set1"
 }, {
   "id": 4,
-  "name": "Malchy Selburn",
-  "email": "mselburn3@slideshare.net",
-  "password": "58e5Y8cWZZ",
-  "phone": "6147790805",
-  "birthday": "07/02/1986",
-  "gender": "Male"
+  "name": "Jania Feldhammer",
+  "email": "jfeldhammer3@twitter.com",
+  "password": "rcznjy",
+  "phone": "2456428629",
+  "birthday": "15/09/1972",
+  "gender": "Male",
+  "avatar": "https://robohash.org/quodnihilerror.png?size=100x100&set=set1"
 }, {
   "id": 5,
-  "name": "Wallie Halwill",
-  "email": "whalwill4@illinois.edu",
-  "password": "cR2yf0XGs",
-  "phone": "6571221748",
-  "birthday": "22/10/1990",
-  "gender": "Male"
+  "name": "Crista Asker",
+  "email": "casker4@nytimes.com",
+  "password": "y9WSSpL",
+  "phone": "3128055668",
+  "birthday": "17/06/1978",
+  "gender": "Male",
+  "avatar": "https://robohash.org/voluptasutrerum.png?size=100x100&set=set1"
 }, {
   "id": 6,
-  "name": "Lemar Grimsdith",
-  "email": "lgrimsdith5@soundcloud.com",
-  "password": "dL3YhMqzcNQ",
-  "phone": "8741718388",
-  "birthday": "22/02/1971",
-  "gender": "Male"
+  "name": "Grenville Peplay",
+  "email": "gpeplay5@wordpress.com",
+  "password": "KtW0Iu",
+  "phone": "5944221749",
+  "birthday": "06/08/1998",
+  "gender": "Male",
+  "avatar": "https://robohash.org/earumsaepeconsectetur.png?size=100x100&set=set1"
 }, {
   "id": 7,
-  "name": "Sheena Gilardi",
-  "email": "sgilardi6@nifty.com",
-  "password": "HtWo3TSefUR",
-  "phone": "9233849656",
-  "birthday": "01/06/1972",
-  "gender": "Female"
+  "name": "Georgianne Tribell",
+  "email": "gtribell6@bloglines.com",
+  "password": "sxDnivjh",
+  "phone": "2843328300",
+  "birthday": "22/10/1976",
+  "gender": "Female",
+  "avatar": "https://robohash.org/hicipsumnon.png?size=100x100&set=set1"
 }, {
   "id": 8,
-  "name": "Julia Dole",
-  "email": "jdole7@loc.gov",
-  "password": "Ljh3kpB2p",
-  "phone": "1438313423",
-  "birthday": "24/03/1974",
-  "gender": "Male"
+  "name": "Murdock Domleo",
+  "email": "mdomleo7@miitbeian.gov.cn",
+  "password": "uuFXR4kzOl1",
+  "phone": "2003424949",
+  "birthday": "17/03/1983",
+  "gender": "Male",
+  "avatar": "https://robohash.org/eumquivoluptatem.png?size=100x100&set=set1"
 }, {
   "id": 9,
-  "name": "Bessy Furtado",
-  "email": "bfurtado8@acquirethisname.com",
-  "password": "2PCTA6QgjOW",
-  "phone": "6217398587",
-  "birthday": "21/11/1977",
-  "gender": "Female"
+  "name": "Panchito Mollitt",
+  "email": "pmollitt8@marketwatch.com",
+  "password": "YTmqIb",
+  "phone": "5447335971",
+  "birthday": "08/02/2000",
+  "gender": "Male",
+  "avatar": "https://robohash.org/dolorveritatisnumquam.png?size=100x100&set=set1"
 }, {
   "id": 10,
-  "name": "Kirby Chetter",
-  "email": "kchetter9@live.com",
-  "password": "HYSuQTa",
-  "phone": "6462781442",
-  "birthday": "03/03/1992",
-  "gender": "Male"
+  "name": "Karalee Mold",
+  "email": "kmold9@creativecommons.org",
+  "password": "6d9PW5gzT",
+  "phone": "2399017877",
+  "birthday": "07/11/1976",
+  "gender": "Female",
+  "avatar": "https://robohash.org/doloredolorrepellendus.png?size=100x100&set=set1"
 }, {
   "id": 11,
-  "name": "Helga Darcey",
-  "email": "hdarceya@bing.com",
-  "password": "65IpGY0pV",
-  "phone": "1634961863",
-  "birthday": "31/03/1990",
-  "gender": "Male"
+  "name": "Eleanora Sarginson",
+  "email": "esarginsona@skyrock.com",
+  "password": "P3tiAEsm5",
+  "phone": "6119210936",
+  "birthday": "26/01/1994",
+  "gender": "Female",
+  "avatar": "https://robohash.org/commodieaqueomnis.png?size=100x100&set=set1"
 }, {
   "id": 12,
-  "name": "Sascha Pressnell",
-  "email": "spressnellb@answers.com",
-  "password": "n9Py1ZBzCHQ",
-  "phone": "5027706537",
-  "birthday": "24/08/1972",
-  "gender": "Female"
+  "name": "Mavis Oleszcuk",
+  "email": "moleszcukb@friendfeed.com",
+  "password": "jhUZLr",
+  "phone": "2196029804",
+  "birthday": "06/08/1989",
+  "gender": "Male",
+  "avatar": "https://robohash.org/autemnesciuntaut.png?size=100x100&set=set1"
 }, {
   "id": 13,
-  "name": "Sutherland Tyrrell",
-  "email": "styrrellc@weather.com",
-  "password": "VzVaQjLAa",
-  "phone": "9818305191",
-  "birthday": "07/05/1972",
-  "gender": "Female"
+  "name": "Beale Bambridge",
+  "email": "bbambridgec@arizona.edu",
+  "password": "mloPOhAqU0Tj",
+  "phone": "2779133983",
+  "birthday": "11/09/1991",
+  "gender": "Female",
+  "avatar": "https://robohash.org/minimaquoinventore.png?size=100x100&set=set1"
 }, {
   "id": 14,
-  "name": "Colman Foyster",
-  "email": "cfoysterd@examiner.com",
-  "password": "4kkGooEY",
-  "phone": "4613501041",
-  "birthday": "10/03/1976",
-  "gender": "Male"
+  "name": "Darcy Corwood",
+  "email": "dcorwoodd@myspace.com",
+  "password": "qSkDnDJi",
+  "phone": "1525955333",
+  "birthday": "19/02/1974",
+  "gender": "Male",
+  "avatar": "https://robohash.org/officiisodiosuscipit.png?size=100x100&set=set1"
 }, {
   "id": 15,
-  "name": "Jenny Senett",
-  "email": "jsenette@tuttocitta.it",
-  "password": "wJ1611XS",
-  "phone": "2708486043",
-  "birthday": "05/05/1974",
-  "gender": "Male"
+  "name": "Trevor Timmons",
+  "email": "ttimmonse@prlog.org",
+  "password": "0VflBNh421Z",
+  "phone": "4661361455",
+  "birthday": "21/01/1995",
+  "gender": "Male",
+  "avatar": "https://robohash.org/praesentiumnihildoloremque.png?size=100x100&set=set1"
 }, {
   "id": 16,
-  "name": "Brianna Eccleston",
-  "email": "becclestonf@themeforest.net",
-  "password": "8DV7N80nJF",
-  "phone": "6229771726",
-  "birthday": "29/12/1977",
-  "gender": "Female"
+  "name": "Curtice Anstead",
+  "email": "cansteadf@yellowpages.com",
+  "password": "xyNjFVl",
+  "phone": "8061864692",
+  "birthday": "20/09/1995",
+  "gender": "Female",
+  "avatar": "https://robohash.org/etquiaexcepturi.png?size=100x100&set=set1"
 }, {
   "id": 17,
-  "name": "Melessa Sturdy",
-  "email": "msturdyg@discovery.com",
-  "password": "WBsu6X",
-  "phone": "2492893136",
-  "birthday": "07/04/1984",
-  "gender": "Female"
+  "name": "Caesar Wyatt",
+  "email": "cwyattg@elegantthemes.com",
+  "password": "RPGMe0U",
+  "phone": "7655160056",
+  "birthday": "10/01/1974",
+  "gender": "Male",
+  "avatar": "https://robohash.org/doloressitrerum.png?size=100x100&set=set1"
 }, {
   "id": 18,
-  "name": "Jodi Slay",
-  "email": "jslayh@shinystat.com",
-  "password": "30pCL5G",
-  "phone": "3892471345",
-  "birthday": "03/03/1973",
-  "gender": "Female"
+  "name": "Cammi Draisey",
+  "email": "cdraiseyh@mail.ru",
+  "password": "ZBeSOHHVpmmn",
+  "phone": "9027920662",
+  "birthday": "25/04/1976",
+  "gender": "Female",
+  "avatar": "https://robohash.org/omnisetvoluptatem.png?size=100x100&set=set1"
 }, {
   "id": 19,
-  "name": "Thorn Beste",
-  "email": "tbestei@census.gov",
-  "password": "YIVEjF5daBpm",
-  "phone": "1434698906",
-  "birthday": "17/03/1991",
-  "gender": "Male"
+  "name": "Judd Hembery",
+  "email": "jhemberyi@jimdo.com",
+  "password": "ZDX4SHG",
+  "phone": "4456919406",
+  "birthday": "22/10/1975",
+  "gender": "Male",
+  "avatar": "https://robohash.org/omnisexpeditalaborum.png?size=100x100&set=set1"
 }, {
   "id": 20,
-  "name": "Sheba Stappard",
-  "email": "sstappardj@nbcnews.com",
-  "password": "MCXgv8LpnN",
-  "phone": "9535131054",
-  "birthday": "27/01/1977",
-  "gender": "Female"
+  "name": "Abramo McKennan",
+  "email": "amckennanj@home.pl",
+  "password": "smlhnG6kQY",
+  "phone": "4131636667",
+  "birthday": "16/07/1999",
+  "gender": "Female",
+  "avatar": "https://robohash.org/illoconsequaturquia.png?size=100x100&set=set1"
 }, {
   "id": 21,
-  "name": "Courtnay Valdes",
-  "email": "cvaldesk@parallels.com",
-  "password": "TZEXTA7d",
-  "phone": "7427141171",
-  "birthday": "26/06/1978",
-  "gender": "Male"
+  "name": "Ted Feldstein",
+  "email": "tfeldsteink@hostgator.com",
+  "password": "6NhyvG",
+  "phone": "1579366954",
+  "birthday": "09/04/1982",
+  "gender": "Male",
+  "avatar": "https://robohash.org/impeditquiamet.png?size=100x100&set=set1"
 }, {
   "id": 22,
-  "name": "Rosalind Custed",
-  "email": "rcustedl@naver.com",
-  "password": "1b9K7uLuqRn",
-  "phone": "7338508837",
-  "birthday": "16/12/1977",
-  "gender": "Male"
+  "name": "Irita Garlick",
+  "email": "igarlickl@delicious.com",
+  "password": "1S0v5maoOP",
+  "phone": "9444224115",
+  "birthday": "09/03/2000",
+  "gender": "Male",
+  "avatar": "https://robohash.org/inquosiusto.png?size=100x100&set=set1"
 }, {
   "id": 23,
-  "name": "Ezra Wookey",
-  "email": "ewookeym@flickr.com",
-  "password": "O1pimp",
-  "phone": "8556970740",
-  "birthday": "30/12/1999",
-  "gender": "Female"
+  "name": "Salli Skeldon",
+  "email": "sskeldonm@businessinsider.com",
+  "password": "miQvzA9d",
+  "phone": "9016925782",
+  "birthday": "08/04/1997",
+  "gender": "Female",
+  "avatar": "https://robohash.org/velprovidentplaceat.png?size=100x100&set=set1"
 }, {
   "id": 24,
-  "name": "Mella Kupper",
-  "email": "mkuppern@sitemeter.com",
-  "password": "vib75vx",
-  "phone": "7881518601",
-  "birthday": "13/08/1983",
-  "gender": "Male"
+  "name": "Shanna Weetch",
+  "email": "sweetchn@ft.com",
+  "password": "Wa44GiE",
+  "phone": "7292165865",
+  "birthday": "24/09/1997",
+  "gender": "Female",
+  "avatar": "https://robohash.org/sitlaudantiumfacere.png?size=100x100&set=set1"
 }, {
   "id": 25,
-  "name": "Willette Cordet",
-  "email": "wcordeto@webeden.co.uk",
-  "password": "bNnQvOBZWa",
-  "phone": "4555399977",
-  "birthday": "24/01/1991",
-  "gender": "Female"
+  "name": "Adelina Goede",
+  "email": "agoedeo@hp.com",
+  "password": "jplDiWn",
+  "phone": "3888548118",
+  "birthday": "20/11/1993",
+  "gender": "Female",
+  "avatar": "https://robohash.org/estminusut.png?size=100x100&set=set1"
 }, {
   "id": 26,
-  "name": "Ursola Harpur",
-  "email": "uharpurp@theatlantic.com",
-  "password": "1zkaXRdykN",
-  "phone": "8918327230",
-  "birthday": "19/01/1997",
-  "gender": "Male"
+  "name": "Lemar Freiberg",
+  "email": "lfreibergp@gmpg.org",
+  "password": "w0wfwK",
+  "phone": "2439677176",
+  "birthday": "29/04/1990",
+  "gender": "Female",
+  "avatar": "https://robohash.org/doloremuteveniet.png?size=100x100&set=set1"
 }, {
   "id": 27,
-  "name": "Cordey Jermy",
-  "email": "cjermyq@fotki.com",
-  "password": "KX1LwKtf",
-  "phone": "3357329639",
-  "birthday": "29/04/1972",
-  "gender": "Female"
+  "name": "Miranda Tythe",
+  "email": "mtytheq@xinhuanet.com",
+  "password": "LrIx4rwr",
+  "phone": "4446424109",
+  "birthday": "16/04/1990",
+  "gender": "Female",
+  "avatar": "https://robohash.org/fuganesciuntaccusamus.png?size=100x100&set=set1"
 }, {
   "id": 28,
-  "name": "Tymothy Foddy",
-  "email": "tfoddyr@microsoft.com",
-  "password": "acmKjGvnSSE",
-  "phone": "9537965448",
-  "birthday": "07/10/1981",
-  "gender": "Male"
+  "name": "Marcellus MattiCCI",
+  "email": "mmatticcir@mediafire.com",
+  "password": "fIv9o5sSmuq",
+  "phone": "5722836948",
+  "birthday": "26/01/1981",
+  "gender": "Female",
+  "avatar": "https://robohash.org/aliquamquicumque.png?size=100x100&set=set1"
 }, {
   "id": 29,
-  "name": "Darice Mytton",
-  "email": "dmyttons@blog.com",
-  "password": "BtPCBF",
-  "phone": "7099103867",
-  "birthday": "25/06/1983",
-  "gender": "Female"
+  "name": "Jocelin Worsham",
+  "email": "jworshams@printfriendly.com",
+  "password": "Yr2eKD",
+  "phone": "9209995827",
+  "birthday": "26/07/1989",
+  "gender": "Male",
+  "avatar": "https://robohash.org/abinciduntlaboriosam.png?size=100x100&set=set1"
 }, {
   "id": 30,
-  "name": "Tremayne MacPharlain",
-  "email": "tmacpharlaint@joomla.org",
-  "password": "FLIPBQcl",
-  "phone": "8803750557",
-  "birthday": "20/01/1989",
-  "gender": "Female"
+  "name": "Iorgo Polson",
+  "email": "ipolsont@eventbrite.com",
+  "password": "PMDMdsxLrC",
+  "phone": "5911638579",
+  "birthday": "11/02/1985",
+  "gender": "Female",
+  "avatar": "https://robohash.org/fugiatrepellendusratione.png?size=100x100&set=set1"
 }, {
   "id": 31,
-  "name": "Dominga Segeswoeth",
-  "email": "dsegeswoethu@dagondesign.com",
-  "password": "vs5Josxe2",
-  "phone": "5229805095",
-  "birthday": "09/12/1989",
-  "gender": "Male"
+  "name": "Codi Reedyhough",
+  "email": "creedyhoughu@infoseek.co.jp",
+  "password": "jHrjr3",
+  "phone": "2531374425",
+  "birthday": "27/10/1978",
+  "gender": "Male",
+  "avatar": "https://robohash.org/laboriosameterror.png?size=100x100&set=set1"
 }, {
   "id": 32,
-  "name": "Oriana Yoodall",
-  "email": "oyoodallv@theatlantic.com",
-  "password": "X7gzEe4W",
-  "phone": "1367823782",
-  "birthday": "13/10/1984",
-  "gender": "Male"
+  "name": "Krystal Toulmin",
+  "email": "ktoulminv@state.gov",
+  "password": "eJ9ihSaP1",
+  "phone": "4549949933",
+  "birthday": "17/02/1992",
+  "gender": "Male",
+  "avatar": "https://robohash.org/indoloribussit.png?size=100x100&set=set1"
 }, {
   "id": 33,
-  "name": "Nicky Deerr",
-  "email": "ndeerrw@nasa.gov",
-  "password": "KTjbDQdr8W2",
-  "phone": "6755289501",
-  "birthday": "17/04/1977",
-  "gender": "Female"
+  "name": "Ingram Cruickshanks",
+  "email": "icruickshanksw@sina.com.cn",
+  "password": "HyMykjwBykh",
+  "phone": "1563569671",
+  "birthday": "18/08/1996",
+  "gender": "Male",
+  "avatar": "https://robohash.org/atquetemporaut.png?size=100x100&set=set1"
 }, {
   "id": 34,
-  "name": "Ferdy Clover",
-  "email": "fcloverx@nationalgeographic.com",
-  "password": "eGd844P424b",
-  "phone": "3239577352",
-  "birthday": "10/05/1993",
-  "gender": "Male"
+  "name": "Bancroft Inchley",
+  "email": "binchleyx@foxnews.com",
+  "password": "BztqyGt",
+  "phone": "8631936521",
+  "birthday": "23/02/1995",
+  "gender": "Female",
+  "avatar": "https://robohash.org/quissednihil.png?size=100x100&set=set1"
 }, {
   "id": 35,
-  "name": "Codi Tregensoe",
-  "email": "ctregensoey@bbb.org",
-  "password": "dFfaUPP",
-  "phone": "2012998920",
-  "birthday": "08/02/1978",
-  "gender": "Male"
+  "name": "Karol Lenahan",
+  "email": "klenahany@webeden.co.uk",
+  "password": "fGaC0RH2R",
+  "phone": "6256653878",
+  "birthday": "23/06/1977",
+  "gender": "Male",
+  "avatar": "https://robohash.org/delenitifugiatsequi.png?size=100x100&set=set1"
 }, {
   "id": 36,
-  "name": "Nanice Isbell",
-  "email": "nisbellz@prnewswire.com",
-  "password": "ZCIeX1faKxT3",
-  "phone": "7749557387",
-  "birthday": "04/08/1980",
-  "gender": "Male"
+  "name": "Alice MacInnes",
+  "email": "amacinnesz@wired.com",
+  "password": "PAqVjHVRuOD",
+  "phone": "7477892539",
+  "birthday": "28/05/1978",
+  "gender": "Male",
+  "avatar": "https://robohash.org/innostrumrem.png?size=100x100&set=set1"
 }, {
   "id": 37,
-  "name": "Freda Berridge",
-  "email": "fberridge10@mozilla.org",
-  "password": "0lQ2twWgt",
-  "phone": "5887709222",
-  "birthday": "13/01/1971",
-  "gender": "Female"
+  "name": "Dermot Bearcroft",
+  "email": "dbearcroft10@google.co.jp",
+  "password": "qbAX20ZLXJtk",
+  "phone": "9563420271",
+  "birthday": "11/10/1974",
+  "gender": "Male",
+  "avatar": "https://robohash.org/dolorescupiditateprovident.png?size=100x100&set=set1"
 }, {
   "id": 38,
-  "name": "Isaac Twoohy",
-  "email": "itwoohy11@altervista.org",
-  "password": "RnjKgIwO",
-  "phone": "8639500242",
-  "birthday": "22/03/1996",
-  "gender": "Male"
+  "name": "Edithe Jeanel",
+  "email": "ejeanel11@paypal.com",
+  "password": "kMIeajXVNX2U",
+  "phone": "9495647657",
+  "birthday": "13/10/1989",
+  "gender": "Female",
+  "avatar": "https://robohash.org/sitetaut.png?size=100x100&set=set1"
 }, {
   "id": 39,
-  "name": "Grier Walburn",
-  "email": "gwalburn12@ed.gov",
-  "password": "vZOsQfpvH",
-  "phone": "5126953492",
-  "birthday": "11/01/1991",
-  "gender": "Male"
+  "name": "Jess Farrell",
+  "email": "jfarrell12@barnesandnoble.com",
+  "password": "MoOw4nMd9J",
+  "phone": "9178261027",
+  "birthday": "24/12/1971",
+  "gender": "Male",
+  "avatar": "https://robohash.org/maioresquisneque.png?size=100x100&set=set1"
 }, {
   "id": 40,
-  "name": "Joletta Elliott",
-  "email": "jelliott13@google.cn",
-  "password": "tc5BqWCdu2XL",
-  "phone": "2672142274",
-  "birthday": "09/02/1979",
-  "gender": "Female"
-}
-  ],
-  "products": [
-    {
-      "id": 1,
-      "name": "Appetizer - Lobster Phyllo Roll",
-      "thumbnail": "https://robohash.org/animiblanditiisveniam.jpg?size=350x200&set=set1",
-      "price": 121.99,
-      "quantity": 61,
-      "status": false
-    },
-    {
-      "id": 2,
-      "name": "Leeks - Large",
-      "thumbnail": "https://robohash.org/architectodoloresquo.jpg?size=350x200&set=set1",
-      "price": 150.05,
-      "quantity": 87,
-      "status": true
-    },
-    {
-      "id": 3,
-      "name": "Wiberg Cure",
-      "thumbnail": "https://robohash.org/etoccaecatieum.jpg?size=350x200&set=set1",
-      "price": 173.51,
-      "quantity": 92,
-      "status": false
-    },
-    {
-      "id": 4,
-      "name": "Bread - Dark Rye, Loaf",
-      "thumbnail": "https://robohash.org/quiistequi.png?size=350x200&set=set1",
-      "price": 58.62,
-      "quantity": 68,
-      "status": true
-    },
-    {
-      "id": 5,
-      "name": "Coffee - Beans, Whole",
-      "thumbnail": "https://robohash.org/maioresatquenihil.png?size=350x200&set=set1",
-      "price": 171.54,
-      "quantity": 11,
-      "status": false
-    },
-    {
-      "id": 6,
-      "name": "Ginger - Fresh",
-      "thumbnail": "https://robohash.org/fugitidest.bmp?size=350x200&set=set1",
-      "price": 116.37,
-      "quantity": 84,
-      "status": true
-    },
-    {
-      "id": 7,
-      "name": "Pastry - Cherry Danish - Mini",
-      "thumbnail": "https://robohash.org/temporibuseossimilique.jpg?size=350x200&set=set1",
-      "price": 195.78,
-      "quantity": 22,
-      "status": true
-    },
-    {
-      "id": 8,
-      "name": "Chicken - Leg, Fresh",
-      "thumbnail": "https://robohash.org/minusabsaepe.jpg?size=350x200&set=set1",
-      "price": 183.8,
-      "quantity": 14,
-      "status": true
-    },
-    {
-      "id": 9,
-      "name": "Dish Towel",
-      "thumbnail": "https://robohash.org/etnonrepellendus.jpg?size=350x200&set=set1",
-      "price": 86.2,
-      "quantity": 30,
-      "status": false
-    },
-    {
-      "id": 10,
-      "name": "Mix - Cappucino Cocktail",
-      "thumbnail": "https://robohash.org/maximeadicta.jpg?size=350x200&set=set1",
-      "price": 190.35,
-      "quantity": 13,
-      "status": true
-    }
-  ],
-  "cart": [
-    {
-      "id": 4,
-      "name": "Bread - Dark Rye, Loaf",
-      "thumbnail": "https://robohash.org/quiistequi.png?size=350x200&set=set1",
-      "price": 58.62,
-      "quantity": 68,
-      "status": true
-    },
-    {
-      "id": 6,
-      "name": "Ginger - Fresh",
-      "thumbnail": "https://robohash.org/fugitidest.bmp?size=350x200&set=set1",
-      "price": 116.37,
-      "quantity": 84,
-      "status": true
-    }
-  ]
+  "name": "Erhard Civitillo",
+  "email": "ecivitillo13@mayoclinic.com",
+  "password": "sNh6fEq",
+  "phone": "5367325121",
+  "birthday": "26/04/1998",
+  "gender": "Female",
+  "avatar": "https://robohash.org/consequaturvitaeunde.png?size=100x100&set=set1"
+}]
 }
