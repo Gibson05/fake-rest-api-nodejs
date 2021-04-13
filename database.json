@@ -362,5 +362,119 @@
   "birthday": "26/04/1998",
   "gender": "Female",
   "avatar": "https://robohash.org/consequaturvitaeunde.png?size=100x100&set=set1"
-}]
+}],
+
+"quiz": [
+  {
+  "id": 1,
+  "question": "In Pirates of the Caribbean, what was Captain Jack Sparrow’s ship’s name?",
+  "correct": "b",
+  "answers" : {
+    "a": "The Marauder",
+    "b": "The Black Pearl",
+    "c": "The Black Python",
+    "d": "The Slytherin"
+    }
+  },
+  {
+  "id": 2,
+  "question": "What is the rarest blood type?",
+  "correct": "d",
+  "answers" : {
+    "a": "O",
+    "b": "A",
+    "c": "B",
+    "d": "AB-Negative"
+    }
+  },
+  {
+  "id": 3,
+  "question": "Which one of these characters is not friends with Harry Potter?",
+  "correct": "c",
+  "answers" : {
+    "a": "Ron Weasley",
+    "b": "Neville Longbottom",
+    "c": "Draco Malfoy",
+    "d": "Hermione Granger"
+    }
+  },
+  {
+  "id": 4,
+  "question": "Which animal does not appear in the Chinese zodiac?",
+  "correct": "d",
+  "answers" : {
+    "a": "Dragon",
+    "b": "Rabbit",
+    "c": "Dog",
+    "d": "Hummingbird"
+    }
+  },
+  {
+  "id": 5,
+  "question": "Which planet is the hottest?",
+  "correct": "a",
+  "answers" : {
+    "a": "Venus",
+    "b": "Saturn",
+    "c": "Mercury",
+    "d": "Mars"
+    }
+  },
+  {
+  "id": 6,
+  "question": "Which boyband sings the song I Want It That Way?",
+  "correct": "b",
+  "answers" : {
+    "a": "One Direction",
+    "b": "Backstreet Boys",
+    "c": "NSYNC",
+    "d": "New Kids On The Block"
+    }
+  },
+  {
+  "id": 7,
+  "question": "What is NaCl?",
+  "correct": "a",
+  "answers" : {
+    "a": "Salt",
+    "b": "Sugar",
+    "c": "Chlorine",
+    "d": "Bleach"
+    }
+  },
+  {
+  "id": 8,
+  "question": "Who wrote the songs for The Lion King?",
+  "correct": "a",
+  "answers" : {
+    "a": "Elton John",
+    "b": "Phil Collins",
+    "c": "Celine Dion",
+    "d": "Stevie Wonder"
+    }
+  },
+  {
+  "id": 9,
+  "question": "What is the longest river in the world?",
+  "correct": "c",
+  "answers" : {
+    "a": "Amazon",
+    "b": "Congo",
+    "c": "Nile",
+    "d": "Hudson"
+    }
+  },
+  {
+  "id": 10,
+  "question": "How many degrees are in a circle?",
+  "correct": "d",
+  "answers" : {
+    "a": "359",
+    "b": "180",
+    "c": "150",
+    "d": "360"
+    }
+  }
+ ]
+
 }
