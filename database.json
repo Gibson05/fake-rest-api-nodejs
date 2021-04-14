@@ -409,7 +409,7 @@
     {
       "id": 1,
       "question": "In Pirates of the Caribbean, what was Captain Jack Sparrow’s ship’s name?",
-      "correct": "b",
+      "correct": "The Black Pearl",
       "answers": {
         "a": "The Marauder",
         "b": "The Black Pearl",
@@ -420,7 +420,7 @@
     {
       "id": 2,
       "question": "What is the rarest blood type?",
-      "correct": "d",
+      "correct": "AB-Negative",
       "answers": {
         "a": "O",
         "b": "A",
@@ -431,7 +431,7 @@
     {
       "id": 3,
       "question": "Which one of these characters is not friends with Harry Potter?",
-      "correct": "c",
+      "correct": "Draco Malfoy",
       "answers": {
         "a": "Ron Weasley",
         "b": "Neville Longbottom",
@@ -442,7 +442,7 @@
     {
       "id": 4,
       "question": "Which animal does not appear in the Chinese zodiac?",
-      "correct": "d",
+      "correct": "Hummingbird",
       "answers": {
         "a": "Dragon",
         "b": "Rabbit",
@@ -453,7 +453,7 @@
     {
       "id": 5,
       "question": "Which planet is the hottest?",
-      "correct": "a",
+      "correct": "Venus",
       "answers": {
         "a": "Venus",
         "b": "Saturn",
@@ -464,7 +464,7 @@
     {
       "id": 6,
       "question": "Which boyband sings the song I Want It That Way?",
-      "correct": "b",
+      "correct": "Backstreet Boys",
       "answers": {
         "a": "One Direction",
         "b": "Backstreet Boys",
@@ -475,7 +475,7 @@
     {
       "id": 7,
       "question": "What is NaCl?",
-      "correct": "a",
+      "correct": "Salt",
       "answers": {
         "a": "Salt",
         "b": "Sugar",
@@ -486,7 +486,7 @@
     {
       "id": 8,
       "question": "Who wrote the songs for The Lion King?",
-      "correct": "a",
+      "correct": "Elton John",
       "answers": {
         "a": "Elton John",
         "b": "Phil Collins",
@@ -497,7 +497,7 @@
     {
       "id": 9,
       "question": "What is the longest river in the world?",
-      "correct": "c",
+      "correct": "Nile",
       "answers": {
         "a": "Amazon",
         "b": "Congo",
@@ -508,7 +508,7 @@
     {
       "id": 10,
       "question": "How many degrees are in a circle?",
-      "correct": "d",
+      "correct": "360",
       "answers": {
         "a": "359",
         "b": "180",
